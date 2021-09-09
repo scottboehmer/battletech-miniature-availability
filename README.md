@@ -39,6 +39,7 @@ This repository contains markdown files with faction availability tables for the
 - [Clan Wolf](./factions/clan-wolf.md)
 - [Clan Wolf-in-Exile](./factions/clan-wolf-in-exile.md)
 - [Clan Wolverine](./factions/clan-wolverine.md)
+- [The Society](./factions/society.md)
 
 ## Mercenaries
 - [Kell Hounds](./factions/kell-hounds.md)
