@@ -24,6 +24,7 @@ This repository contains markdown files with faction availability tables for the
 - [Clan Coyote](./factions/clan-coyote.md)
 - [Clan Fire Mandrill](./factions/clan-fire-mandrill.md)
 - [Clan Ghost Bear](./factions/clan-ghost-bear.md)
+- [Clan Goliath Scorpion](./factions/clan-goliath-scorpion.md)
 - [Clan Hell's Horses](./factions/clan-hells-horses.md)
 - [Clan Ice Hellion](./factions/clan-ice-hellion.md)
 - [Clan Jade Falcon](./factions/clan-jade-falcon.md)
