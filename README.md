@@ -2,6 +2,8 @@
 
 This repository contains markdown files with faction availability tables for the ’Mechs that have new plastic miniatures. Each table has the availability for a faction across the games various eras. If any variant of the mech is available to the faction for an era, it is marked in the table. All availability data is from the [Master Unit List](http://masterunitlist.info/).
 
+An alternate set of files using the miniatures in the older Introductory Box Set and Lance Packs is available in the [lance-packs](./lance-packs) directory.
+
 ## Great Houses
 - [House Davion](./factions/davion.md)
 - [House Kurita](./factions/kurita.md)
