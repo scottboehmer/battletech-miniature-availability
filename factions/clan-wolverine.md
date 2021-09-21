@@ -60,6 +60,7 @@
 | **Highlander** |     |  ●  |     |     |     |     |     |     |     |     |
 | **Banshee** |     |     |     |     |     |     |     |     |     |     |
 | **Nightstar** |     |     |     |     |     |     |     |     |     |     |
+| **Annihilator** |     |     |     |     |     |     |     |     |     |     |
 | **Atlas** |     |     |     |     |     |     |     |     |     |     |
 | **King Crab** |     |     |     |     |     |     |     |     |     |     |
 | **Marauder II** |     |     |     |     |     |     |     |     |     |     |
