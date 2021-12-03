@@ -102,7 +102,7 @@
 | **Warhammer IIC** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Marauder IIC** |     |     |     |     |  ●  |  ●  |  ●  |     |     |     |
 | **Warhawk** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **Kingfisher** |     |     |     |     |  ●  |  ●  |  ●  |     |     |     |
+| **Kingfisher** |     |     |     |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Supernova** |     |     |     |     |  ●  |  ●  |  ●  |     |     |     |
 | **Executioner** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Turkina** |     |     |     |     |     |     |  ●  |     |     |     |
