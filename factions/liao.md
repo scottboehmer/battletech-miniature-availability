@@ -3,7 +3,7 @@
 | Design | Star League | Early Succession Wars | Late Succession Wars - LosTech | Late Succession Wars - Renaissance | Clan Invasion | Civil War | Jihad | Early Republic | Late Republic | Dark Ages |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Locust** |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Mercury** |  ●  |  ●  |  ●  |     |     |     |     |     |     |     |
+| **Mercury** |  ●  |  ●  |  ●  |     |     |     |     |     |  ●  |  ●  |
 | **Stinger** |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
 | **Wasp** |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
 | **Commando** |     |     |     |     |     |     |     |     |     |     |

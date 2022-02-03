@@ -2,8 +2,8 @@
 
 | Design | Star League | Early Succession Wars | Late Succession Wars - LosTech | Late Succession Wars - Renaissance | Clan Invasion | Civil War | Jihad | Early Republic | Late Republic | Dark Ages |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Locust** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **Mercury** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
+| **Locust** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |  ●  |  ●  |
+| **Mercury** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |  ●  |  ●  |
 | **Stinger** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Wasp** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Commando** |     |     |     |     |     |     |     |     |     |     |
@@ -26,12 +26,12 @@
 | **Hunchback** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Trebuchet** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Bushwacker** |     |     |     |     |     |     |     |     |     |     |
-| **Griffin** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **Shadow Hawk** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
+| **Griffin** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |  ●  |  ●  |
+| **Shadow Hawk** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |  ●  |  ●  |
 | **Wolverine** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Dragon** |     |     |     |     |     |     |     |     |     |     |
 | **Grand Dragon** |     |     |     |     |     |     |     |     |     |     |
-| **Lancelot** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
+| **Lancelot** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |  ●  |  ●  |
 | **Rifleman** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Axman** |     |     |     |     |     |     |     |     |     |     |
 | **Catapult** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
@@ -41,38 +41,38 @@
 | **Archer** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Cataphract** |     |     |     |     |     |     |     |     |     |     |
 | **Grasshopper** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **Guillotine** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
+| **Guillotine** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |  ●  |  ●  |
 | **Warhammer** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Black Knight** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **Flashman** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **Marauder** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
+| **Flashman** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |  ●  |  ●  |
+| **Marauder** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |  ●  |  ●  |
 | **Orion** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Awesome** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **Thug** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
+| **Thug** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |  ●  |  ●  |
 | **Victor** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Zeus** |     |     |     |     |  ●  |  ●  |  ●  |     |     |     |
 | **BattleMaster** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Crockett** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Katana** |     |     |     |     |     |     |     |     |     |     |
 | **Longbow** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **Stalker** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
+| **Stalker** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |  ●  |  ●  |
 | **Cyclops** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **Highlander** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
+| **Highlander** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |  ●  |  ●  |
 | **Banshee** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Nightstar** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
 | **Annihilator** |     |     |     |     |     |     |     |     |     |     |
-| **Atlas** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **King Crab** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
+| **Atlas** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |  ●  |  ●  |
+| **King Crab** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |  ●  |
 | **Marauder II** |     |     |     |     |     |  ●  |  ●  |     |     |     |
 | **Fire Moth** |     |     |     |     |     |  ●  |  ●  |     |     |     |
 | **Howler** |     |     |     |     |     |     |     |     |     |     |
 | **Piranha** |     |     |     |     |     |     |     |     |     |     |
 | **Fire Falcon** |     |     |     |     |     |     |     |     |     |     |
-| **Mist Lynx** |     |     |     |     |     |  ●  |  ●  |     |     |     |
+| **Mist Lynx** |     |     |     |     |     |  ●  |  ●  |     |  ●  |  ●  |
 | **Arctic Cheetah** |     |     |     |     |     |  ●  |  ●  |     |     |     |
 | **Hellion** |     |     |     |     |     |     |     |     |     |     |
 | **Incubus** |     |     |     |     |     |     |     |     |     |     |
-| **Kit Fox** |     |     |     |     |     |     |     |     |     |  ●  |
+| **Kit Fox** |     |     |     |     |     |     |     |     |  ●  |  ●  |
 | **Pack Hunter** |     |     |     |     |     |     |     |     |     |     |
 | **Adder** |     |     |     |     |     |  ●  |  ●  |     |     |     |
 | **Cougar** |     |     |     |     |     |     |     |     |     |     |

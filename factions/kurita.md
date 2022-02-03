@@ -3,7 +3,7 @@
 | Design | Star League | Early Succession Wars | Late Succession Wars - LosTech | Late Succession Wars - Renaissance | Clan Invasion | Civil War | Jihad | Early Republic | Late Republic | Dark Ages |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Locust** |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Mercury** |     |  ●  |     |     |     |     |     |     |     |     |
+| **Mercury** |     |  ●  |     |     |     |     |     |     |     |  ●  |
 | **Stinger** |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
 | **Wasp** |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
 | **Commando** |     |     |     |     |     |     |     |     |     |     |
@@ -31,7 +31,7 @@
 | **Wolverine** |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
 | **Dragon** |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
 | **Grand Dragon** |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Lancelot** |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |
+| **Lancelot** |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
 | **Rifleman** |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
 | **Axman** |     |     |     |     |     |     |     |     |     |     |
 | **Catapult** |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
@@ -94,7 +94,7 @@
 | **Ebon Jaguar** |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |
 | **Hellbringer** |     |     |     |     |     |  ●  |  ●  |     |     |  ●  |
 | **Linebacker** |     |     |     |     |     |     |     |     |     |     |
-| **Nova Cat** |     |     |     |     |     |     |     |     |     |     |
+| **Nova Cat** |     |     |     |     |     |     |     |     |     |  ●  |
 | **Summoner** |     |     |     |     |     |  ●  |  ●  |     |     |     |
 | **Night Gyr** |     |     |     |     |     |     |     |     |     |     |
 | **Timber Wolf** |     |     |     |     |     |     |     |     |     |     |
