@@ -13,7 +13,7 @@
 | **SuburbanMech** |     |     |     |     |     |     |  ●  |  ●  |  ●  |     |
 | **Valkyrie** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
 | **Jenner** |     |     |     |     |     |     |  ●  |  ●  |  ●  |     |
-| **Panther** |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |
+| **Panther** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
 | **Raven** |     |     |     |     |     |     |     |     |     |     |
 | **Wolfhound** |     |     |     |     |     |     |  ●  |  ●  |  ●  |     |
 | **Sentinel** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
@@ -24,11 +24,13 @@
 | **Crab** |     |     |     |     |     |     |     |     |     |     |
 | **Enforcer** |     |     |     |     |     |     |  ●  |  ●  |  ●  |     |
 | **Hunchback** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
+| **Nightsky** |     |     |     |     |     |     |     |     |     |     |
 | **Trebuchet** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
 | **Bushwacker** |     |     |     |     |     |     |     |     |     |     |
 | **Griffin** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
 | **Shadow Hawk** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
 | **Wolverine** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
+| **Wraith** |     |     |     |     |     |     |     |     |     |     |
 | **Dragon** |     |     |     |     |     |     |     |     |     |     |
 | **Grand Dragon** |     |     |     |     |     |     |     |     |     |     |
 | **Lancelot** |     |     |     |     |     |     |     |     |     |     |
@@ -47,12 +49,14 @@
 | **Flashman** |     |     |     |     |     |     |     |     |     |     |
 | **Marauder** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
 | **Orion** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
+| **Penetrator** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
 | **Awesome** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
-| **Thug** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Thug** |     |     |     |     |     |     |     |     |     |     |
 | **Victor** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
 | **Zeus** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
 | **BattleMaster** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
 | **Crockett** |     |     |     |     |     |     |     |     |     |     |
+| **Gunslinger** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
 | **Katana** |     |     |     |     |     |     |     |     |     |     |
 | **Longbow** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
 | **Stalker** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
@@ -60,53 +64,56 @@
 | **Highlander** |     |     |     |     |     |     |     |     |  ●  |  ●  |
 | **Banshee** |     |     |     |     |     |     |  ●  |  ●  |  ●  |     |
 | **Nightstar** |     |     |     |     |     |     |     |     |     |     |
+| **Sagittaire** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
 | **Annihilator** |     |     |     |     |     |     |     |     |     |     |
 | **Atlas** |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
-| **King Crab** |     |     |     |     |     |     |  ●  |     |  ●  |  ●  |
+| **King Crab** |     |     |     |     |     |     |     |     |  ●  |  ●  |
 | **Marauder II** |     |     |     |     |     |     |     |     |     |     |
-| **Fire Moth** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Fire Moth** |     |     |     |     |     |     |     |     |     |     |
 | **Howler** |     |     |     |     |     |     |     |     |     |     |
 | **Piranha** |     |     |     |     |     |     |     |     |     |     |
 | **Fire Falcon** |     |     |     |     |     |     |     |     |     |     |
-| **Mist Lynx** |     |     |     |     |     |     |  ●  |     |     |     |
-| **Arctic Cheetah** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Mist Lynx** |     |     |     |     |     |     |     |     |     |     |
+| **Arctic Cheetah** |     |     |     |     |     |     |     |     |     |     |
 | **Hellion** |     |     |     |     |     |     |     |     |     |     |
 | **Incubus** |     |     |     |     |     |     |     |     |     |  ●  |
 | **Kit Fox** |     |     |     |     |     |     |     |     |     |     |
 | **Pack Hunter** |     |     |     |     |     |     |     |     |     |     |
-| **Adder** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Adder** |     |     |     |     |     |     |     |     |     |     |
 | **Cougar** |     |     |     |     |     |     |     |     |     |     |
 | **Horned Owl** |     |     |     |     |     |     |     |     |     |     |
 | **Battle Cobra** |     |     |     |     |     |     |     |     |     |     |
-| **Viper** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Pouncer** |     |     |     |     |     |     |     |     |     |     |
+| **Viper** |     |     |     |     |     |     |     |     |     |     |
 | **Grendel** |     |     |     |     |     |     |     |     |     |     |
-| **Ice Ferret** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Ice Ferret** |     |     |     |     |     |     |     |     |     |     |
 | **Shadow Cat** |     |     |     |     |     |     |     |     |     |     |
 | **Conjurer** |     |     |     |     |     |     |     |     |     |     |
-| **Hunchback IIC** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Hunchback IIC** |     |     |     |     |     |     |     |     |     |     |
 | **Huntsman** |     |     |     |     |     |     |     |     |     |     |
-| **Nova** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Nova** |     |     |     |     |     |     |     |     |     |     |
 | **Black Lanner** |     |     |     |     |     |     |     |     |     |     |
 | **Stormcrow** |     |     |     |     |     |     |     |     |     |     |
 | **Vapor Eagle** |     |     |     |     |     |     |     |     |     |     |
 | **Mad Dog** |     |     |     |     |     |     |     |     |     |     |
 | **Crossbow** |     |     |     |     |     |     |     |     |     |     |
 | **Ebon Jaguar** |     |     |     |     |     |     |     |     |     |     |
-| **Hellbringer** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Hellbringer** |     |     |     |     |     |     |     |     |     |     |
 | **Linebacker** |     |     |     |     |     |     |     |     |     |     |
 | **Nova Cat** |     |     |     |     |     |     |     |     |     |     |
-| **Summoner** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Summoner** |     |     |     |     |     |     |     |     |     |     |
 | **Night Gyr** |     |     |     |     |     |     |     |     |     |     |
 | **Timber Wolf** |     |     |     |     |     |     |     |     |     |     |
-| **Gargoyle** |     |     |     |     |     |     |  ●  |     |     |     |
-| **Warhammer IIC** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Gargoyle** |     |     |     |     |     |     |     |     |     |     |
+| **Warhammer IIC** |     |     |     |     |     |     |     |     |     |     |
 | **Marauder IIC** |     |     |     |     |     |     |     |     |     |     |
-| **Warhawk** |     |     |     |     |     |     |  ●  |     |     |     |
-| **Kingfisher** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Warhawk** |     |     |     |     |     |     |     |     |     |     |
+| **Kingfisher** |     |     |     |     |     |     |     |     |     |     |
+| **Regent** |     |     |     |     |     |     |     |     |     |     |
 | **Supernova** |     |     |     |     |     |     |     |     |     |     |
-| **Executioner** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Executioner** |     |     |     |     |     |     |     |     |     |     |
 | **Turkina** |     |     |     |     |     |     |     |     |     |     |
-| **Dire Wolf** |     |     |     |     |     |     |  ●  |     |     |     |
+| **Dire Wolf** |     |     |     |     |     |     |     |     |     |     |
 | **Kodiak** |     |     |     |     |     |     |     |     |     |     |
 | **Stone Rhino** |     |     |     |     |     |     |     |     |     |     |
 
