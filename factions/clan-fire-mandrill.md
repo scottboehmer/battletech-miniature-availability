@@ -1,6 +1,6 @@
 # Clan Fire Mandrill
 
-| Design | Star League | Early Succession Wars | Late Succession Wars - LosTech | Late Succession Wars - Renaissance | Clan Invasion | Civil War | Jihad | Early Republic | Late Republic | Dark Ages | ilClan |
+| Design | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Locust** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
 | **Mercury** |     |     |     |     |     |     |     |     |     |     |     |
@@ -84,6 +84,7 @@
 | **Horned Owl** |     |     |     |     |  ●  |  ●  |  ●  |     |     |     |     |
 | **Wolfhound IIC** |     |     |     |     |     |     |     |     |     |     |     |
 | **Battle Cobra** |     |     |     |     |     |     |     |     |     |     |     |
+| **Battle Cobra (ComStar)** |     |     |     |     |     |     |     |     |     |     |     |
 | **Pouncer** |     |     |     |     |     |     |     |     |     |     |     |
 | **Viper** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
 | **Grendel** |     |     |     |     |  ●  |  ●  |  ●  |     |     |     |     |
@@ -98,7 +99,7 @@
 | **Stormcrow** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
 | **Vapor Eagle** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
 | **Mad Dog** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Crossbow** |     |     |     |     |     |     |     |     |     |     |     |
+| **Crossbow OmniMech** |     |     |     |     |     |     |     |     |     |     |     |
 | **Ebon Jaguar** |     |     |     |     |  ●  |  ●  |  ●  |     |     |     |     |
 | **Hellbringer** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
 | **Linebacker** |     |     |     |     |     |     |     |     |     |     |     |
@@ -118,4 +119,6 @@
 | **Dire Wolf** |     |     |     |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
 | **Kodiak** |     |     |     |     |     |     |     |     |     |     |     |
 | **Stone Rhino** |     |     |     |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
+| **Elemental Battle Armor** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
+| **Elemental III Battle Armor** |     |     |     |     |     |     |     |     |     |     |     |
 
