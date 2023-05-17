@@ -15,9 +15,12 @@ This repository contains markdown files with faction availability tables for the
 - [Republic of the Sphere](./factions/republic-of-the-sphere.md)
 - [Star League](./factions/star-league.md)
 - [St. Ives Compact](./factions/st-ives-compact.md)
+- [Tamar Pact](./factions/tamar-pact.md)
+- [Vesper Marches](./factions/vesper-marches.md)
 - [Word of Blake](./factions/word-of-blake.md)
 
 ## Clans
+- [Alyina Mercantile League](./factions/alyina-mercantile-league.md)
 - [Clan Blood Spirit](./factions/clan-blood-spirit.md)
 - [Clan Burrock](./factions/clan-burrock.md)
 - [Clan Cloud Cobra](./factions/clan-cloud-cobra.md)
