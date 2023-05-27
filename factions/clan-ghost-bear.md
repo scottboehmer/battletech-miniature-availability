@@ -19,7 +19,7 @@
 | **Browning Mobile HQ** |     |  ●  |  ●  |  ●  |     |     |     |     |  ●  |  ●  |  ●  |
 | **Commando** |     |     |     |     |     |     |     |     |     |     |     |
 | **Fire Falcon** |     |     |     |     |     |     |     |     |     |     |     |
-| **J. Edger Light Hover Tank** |     |     |     |     |     |     |     |     |     |     |     |
+| **J. Edgar Light Hover Tank** |     |     |     |     |     |     |     |     |     |     |     |
 | **Locust IIC** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
 | **Mist Lynx** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |  ●  |  ●  |
 | **Mobile Headquarters** |     |  ●  |     |     |     |     |     |     |     |     |     |

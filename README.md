@@ -33,6 +33,7 @@ This repository contains markdown files with faction availability tables for the
 - [Clan Jade Falcon](./factions/clan-jade-falcon.md)
 - [Clan Mongoose](./factions/clan-mongoose.md)
 - [Clan Nova Cat](./factions/clan-nova-cat.md)
+- [Clan Protectorate](./factions/clan-protectorate.md)
 - [Clan Sea Fox](./factions/clan-sea-fox.md)
 - [Clan Smoke Jaguar](./factions/clan-smoke-jaguar.md)
 - [Clan Snow Raven](./factions/clan-snow-raven.md)
