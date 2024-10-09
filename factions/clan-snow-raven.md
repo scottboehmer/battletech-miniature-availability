@@ -1,203 +1,106 @@
-# Clan Snow Raven / Raven Alliance
+# Clan Snow Raven
 
-| Design | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
+| Unit | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Elemental Battle Armor** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Elemental III Battle Armor** |     |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |
-| **IS Standard Battle Armor** |     |     |     |     |     |     |     |     |     |     |     |
-| **Fire Moth** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Flea** |     |     |     |     |     |     |     |     |     |     |     |
-| **Howler** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Locust** |     |  ●  |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **MASH Truck** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Mercury** |     |     |     |     |     |     |     |     |     |     |     |
-| **Piranha** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Skulker Wheeled Scout Tank** |     |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |
-| **Stinger** |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |  ●  |  ●  |
-| **Wasp** |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
-| **Warrior Attack Helicopter** |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
-| **Browning Mobile HQ** |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |  ●  |  ●  |  ●  |
-| **Commando** |     |     |     |     |     |     |     |     |     |     |     |
-| **Fire Falcon** |     |     |     |     |     |     |     |     |     |     |     |
-| **J. Edgar Light Hover Tank** |     |     |     |     |     |     |     |     |     |     |     |
-| **Locust IIC** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Mist Lynx** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Mobile Headquarters** |     |  ●  |     |     |     |     |     |     |     |     |     |
-| **Mongoose** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |  ●  |     |
-| **Arctic Cheetah** |     |     |     |     |  ●  |  ●  |  ●  |     |     |     |     |
-| **Firefly** |     |  ●  |     |     |  ●  |  ●  |  ●  |     |     |     |     |
-| **Galleon Light Tank** |     |     |     |     |     |     |     |     |     |     |     |
-| **Hellion** |     |     |     |     |  ●  |  ●  |  ●  |     |     |     |     |
-| **Incubus** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |  ●  |  ●  |
-| **Javelin** |     |     |     |     |     |     |     |     |     |     |     |
-| **Kit Fox** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Pack Hunter** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Spider** |     |     |     |     |     |     |     |     |     |     |     |
-| **SuburbanMech** |     |     |     |     |     |     |     |     |     |     |     |
-| **UrbanMech** |     |     |     |     |     |     |     |     |     |     |     |
-| **Valkyrie** |     |     |     |     |     |     |     |     |     |  ●  |  ●  |
-| **Adder** |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Cougar** |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
-| **Firebee** |     |     |     |     |     |     |     |     |     |     |     |
-| **Firestarter** |     |     |     |     |     |     |     |     |     |     |     |
-| **Horned Owl** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Jenner** |     |     |     |     |     |     |     |  ●  |  ●  |     |     |
-| **Jenner IIC** |     |     |     |     |  ●  |  ●  |  ●  |     |     |  ●  |  ●  |
-| **Ostscout** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |  ●  |  ●  |
-| **Panther** |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
-| **Pegasus Scout Hover Tank** |     |     |     |     |     |     |     |     |     |     |     |
-| **Raven** |     |     |     |     |     |     |     |     |     |     |     |
-| **Spector** |     |     |     |     |     |     |     |     |     |     |     |
-| **Wolfhound** |     |     |     |     |     |     |     |     |     |     |     |
-| **Wolfhound IIC** |     |     |     |     |     |     |     |     |     |     |     |
-| **Assassin** |     |     |     |     |     |     |     |     |     |     |     |
-| **Battle Cobra** |     |     |     |     |  ●  |  ●  |  ●  |     |     |     |     |
-| **Battle Cobra (ComStar)** |     |     |     |     |     |     |     |     |     |     |     |
-| **Cicada** |     |     |     |     |     |     |     |     |     |     |     |
-| **Clint** |     |  ●  |     |     |     |     |     |     |     |     |     |
-| **Griffin IIC** |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Hermes II** |     |     |     |     |     |     |     |     |     |     |     |
-| **Hetzer Wheeled Assault Gun** |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
-| **Icarus II** |     |     |     |     |     |     |     |     |     |     |     |
-| **Pouncer** |     |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |
-| **Sentinel** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **Viper** |     |     |     |     |     |     |     |     |     |     |     |
-| **Vulcan** |     |     |     |     |     |     |     |     |     |     |     |
-| **Whitworth** |     |     |     |     |     |     |     |     |     |     |     |
-| **Blackjack** |     |     |     |     |     |     |     |     |     |     |     |
-| **Grendel** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Hammerhead** |     |     |     |     |     |     |     |     |     |  ●  |  ●  |
-| **Hatchetman** |     |     |     |     |     |     |     |     |     |     |     |
-| **Ice Ferret** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Night Chanter** |     |  ●  |  ●  |     |     |     |     |     |     |     |     |
-| **Phoenix Hawk** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Shadow Cat** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Shadow Hawk IIC** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Centurion** |     |     |     |     |     |     |     |     |     |     |     |
-| **Chameleon** |     |  ●  |     |     |     |     |     |     |     |     |     |
-| **Condor Heavy Hover Tank** |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
-| **Conjurer** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Crab** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **Drillson Heavy Hover Tank** |     |     |     |     |     |     |     |     |     |     |     |
-| **Enforcer** |     |     |     |     |     |     |     |     |     |     |     |
-| **Eris** |     |     |     |     |     |     |     |     |     |     |     |
-| **Hel** |     |     |     |     |     |     |     |     |     |     |     |
-| **Hunchback** |     |     |     |     |     |     |     |     |     |     |     |
-| **Hunchback IIC** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Huntsman** |     |     |     |     |     |     |     |     |     |     |     |
-| **Maxim Heavy Hover Transport** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Nightsky** |     |     |     |     |     |     |     |     |     |     |     |
-| **Nova** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **SM Tank Destroyer** |     |     |     |     |     |     |     |     |     |     |     |
-| **Starslayer** |     |     |     |     |     |     |     |     |     |     |     |
-| **Trebuchet** |     |     |     |     |     |     |     |     |     |     |     |
-| **Vedette Medium Tank** |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
-| **Black Lanner** |     |     |     |     |     |     |     |     |     |     |     |
-| **Bushwacker** |     |     |     |     |     |     |     |     |     |     |     |
-| **Dervish** |     |     |     |     |     |     |     |     |     |     |     |
-| **Gladiator** |     |     |     |     |     |     |     |     |     |     |     |
-| **Griffin** |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |  ●  |  ●  |
-| **Hoplite** |     |     |     |     |     |     |     |     |     |     |     |
-| **Scorpion** |     |     |     |     |     |     |     |     |     |     |     |
-| **Shadow Hawk** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Stormcrow** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Vapor Eagle** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Wolverine** |     |     |     |     |     |     |     |     |     |     |     |
-| **Wraith** |     |     |     |     |     |     |     |     |     |     |     |
-| **Bulldog Medium Tank** |     |     |     |     |     |     |     |  ●  |     |     |     |
-| **Dragon** |     |     |     |     |     |     |     |     |     |     |     |
-| **Grand Dragon** |     |     |     |     |     |     |     |     |     |     |     |
-| **Lancelot** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **LRM Carrier** |     |  ●  |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
-| **Mad Dog** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Manticore Heavy Tank** |     |     |     |     |     |     |     |     |     |     |     |
-| **Merlin** |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
-| **Ostroc** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Ostsol** |     |     |     |     |     |     |     |     |     |     |     |
-| **Pike Support Vehicle** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Quickdraw** |     |     |     |     |     |     |     |     |     |     |     |
-| **Rifleman** |     |  ●  |  ●  |     |     |     |  ●  |     |     |  ●  |  ●  |
-| **SRM Carrier** |     |  ●  |     |     |     |     |     |     |  ●  |  ●  |  ●  |
-| **Axman** |     |     |     |     |     |     |     |     |     |     |     |
-| **Catapult** |     |     |     |     |     |     |     |     |     |     |     |
-| **Crossbow OmniMech** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Crusader** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Ebon Jaguar** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Exterminator** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Hel OmniMech** |     |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |
-| **Hellbringer** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **JagerMech** |     |     |     |     |     |     |     |     |     |     |     |
-| **Linebacker** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Mobile Long Tom Artillery** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Patton Tank** |     |     |     |     |     |     |     |     |     |     |     |
-| **Rifleman IIC** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Thunderbolt** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Archer** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Caesar** |     |     |     |     |     |     |     |     |     |     |     |
-| **Cataphract** |     |     |     |     |     |     |     |     |     |     |     |
-| **Grasshopper** |     |     |     |     |     |     |     |     |     |     |     |
-| **Grizzly** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Guillotine** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Nova Cat** |     |     |     |     |  ●  |  ●  |     |  ●  |  ●  |  ●  |  ●  |
-| **Summoner** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Warhammer** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |  ●  |  ●  |
-| **Black Knight** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Black Python** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Flashman** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **Marauder** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Night Gyr** |     |     |     |     |     |     |     |     |     |     |     |
-| **Orion** |     |     |     |     |     |     |     |     |     |     |     |
-| **Penetrator** |     |     |     |     |     |     |     |     |     |     |     |
-| **Spirit Walker** |     |  ●  |  ●  |  ●  |  ●  |     |     |     |     |     |     |
-| **Timber Wolf** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Von Luckner Heavy Tank** |     |  ●  |     |     |     |     |     |     |     |     |     |
-| **White Raven** |     |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |
-| **Awesome** |     |     |     |     |     |     |     |     |     |     |     |
-| **Charger** |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
-| **Demolisher Heavy Tank** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Gargoyle** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Goliath** |     |     |     |     |     |     |     |     |     |     |     |
-| **Phoenix Hawk IIC** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Schrek PPC Carrier** |     |     |     |     |     |     |     |  ●  |  ●  |  ●  |  ●  |
-| **Spartan** |     |     |     |     |     |     |     |     |     |     |     |
-| **Thug** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Victor** |     |     |     |     |     |     |     |     |     |     |     |
-| **Warhammer IIC** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Zeus** |     |     |     |     |     |     |     |     |     |     |     |
-| **BattleMaster** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |  ●  |  ●  |
-| **Crockett** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Gunslinger** |     |     |     |     |     |     |     |     |     |     |     |
-| **Katana** |     |     |     |     |     |     |     |     |     |     |     |
-| **Longbow** |     |     |     |     |     |     |     |     |     |     |     |
-| **Marauder IIC** |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Shogun** |     |     |     |     |     |     |     |     |     |  ●  |  ●  |
-| **Stalker** |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |     |
-| **SturmFeur Heavy Tank** |     |     |     |     |     |     |     |     |     |     |     |
-| **Warhawk** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Blood Asp** |     |     |     |     |     |     |     |     |     |  ●  |  ●  |
-| **Cyclops** |     |     |     |     |     |     |     |     |     |     |     |
-| **Highlander** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **Highlander IIC** |     |     |     |     |  ●  |  ●  |  ●  |     |     |     |     |
-| **Kingfisher** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Regent** |     |     |     |     |     |     |     |     |     |     |     |
-| **Supernova** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Ymir** |     |     |     |     |     |     |     |     |     |     |     |
-| **Banshee** |     |     |     |     |     |     |     |     |     |     |     |
-| **Executioner** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |  ●  |  ●  |
-| **Nightstar** |     |     |     |     |     |     |     |     |     |     |     |
-| **Ontos Heavy Tank** |     |     |     |     |     |     |     |     |     |     |     |
-| **Sagittaire** |     |     |     |     |     |     |     |     |     |     |     |
-| **Turkina** |     |     |     |     |     |     |     |     |     |     |     |
-| **Annihilator** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Atlas** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Bane** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Behemoth Heavy Tank** |     |     |     |     |     |     |     |     |     |     |     |
-| **Devastator** |     |     |     |     |     |     |     |     |     |     |     |
-| **Dire Wolf** |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |
-| **King Crab** |     |     |     |     |     |     |     |     |     |     |     |
-| **Kodiak** |     |     |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
-| **Mackie** |     |     |     |     |     |     |     |     |     |     |     |
-| **Marauder II** |     |     |     |     |     |     |     |     |     |     |     |
-| **Pillager** |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |     |     |     |     |
-| **Stone Rhino** |     |     |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |  ●  |
+| Annihilator BattleMech |   |   |   | • | • | • | • |   |   |   |   |
+| Archer BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Arctic Cheetah OmniMech |   |   |   |   | • | • | • |   |   |   |   |
+| Atlas BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Atlas II BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Bane BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Battle Cobra OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| BattleMaster BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Black Knight BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Black Python BattleMech |   |   |   |   | • | • | • |   |   |   |   |
+| Browning Mobile HQ |   | • | • | • | • | • |   |   |   |   |   |
+| Chameleon BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Clint BattleMech |   | • |   |   |   |   |   |   |   |   |   |
+| Clint IIC BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Conjurer BattleMech |   |   | • | • | • | • | • |   |   |   |   |
+| Crab BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Crockett BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Crossbow OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| Crusader BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Demolisher Heavy Tank |   |   |   |   | • | • | • |   |   |   |   |
+| Dire Wolf OmniMech |   |   |   | • | • | • | • |   |   |   |   |
+| Ebon Jaguar OmniMech |   |   |   |   | • | • | • |   |   |   |   |
+| Elemental Battle Armor |   |   | • | • | • | • | • |   |   |   |   |
+| Emperor BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Excalibur BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Executioner OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| Exterminator BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Fire Moth OmniMech |   |   |   |   | • | • | • |   |   |   |   |
+| Firefly BattleMech |   | • |   | • | • | • | • |   |   |   |   |
+| Flashman BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Gargoyle OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| Grendel OmniMech |   |   |   |   | • | • | • |   |   |   |   |
+| Griffin BattleMech |   | • | • | • | • | • |   |   |   |   |   |
+| Griffin IIC BattleMech |   |   |   | • | • | • | • |   |   |   |   |
+| Grizzly BattleMech |   |   | • | • | • | • | • |   |   |   |   |
+| Guillotine BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Guillotine IIC BattleMech |   |   |   | • | • | • | • |   |   |   |   |
+| Hellbringer OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| Hellion OmniMech |   |   |   |   | • | • | • |   |   |   |   |
+| Highlander BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Highlander IIC BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Horned Owl BattleMech |   |   | • | • | • | • | • |   |   |   |   |
+| Howler BattleMech |   |   | • | • | • | • | • |   |   |   |   |
+| Hunchback IIC BattleMech |   |   | • | • | • | • | • |   |   |   |   |
+| Ice Ferret OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| Incubus BattleMech |   |   | • | • | • | • | • |   |   |   |   |
+| Jenner IIC BattleMech |   |   |   |   | • | • | • |   |   |   |   |
+| Kingfisher OmniMech |   | • | • | • | • | • | • |   |   |   |   |
+| Kintaro BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Kit Fox OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| Kodiak BattleMech |   |   |   |   | • | • | • |   |   |   |   |
+| Lancelot BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Linebacker OmniMech |   |   |   |   | • | • | • |   |   |   |   |
+| Locust BattleMech |   | • |   |   |   |   | • |   |   |   |   |
+| Locust IIC BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Longbow BattleMech |   | • |   |   |   |   |   |   |   |   |   |
+| LRM Carrier |   | • |   |   |   |   |   |   |   |   |   |
+| Mad Dog OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| Marauder BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Marauder IIC BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| MASH Truck |   | • | • | • | • | • | • |   |   |   |   |
+| Maxim Heavy Hover Transport |   | • | • |   | • | • | • |   |   |   |   |
+| Mercury BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Mist Lynx OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| Mobile Headquarters |   | • |   |   |   |   |   |   |   |   |   |
+| Mobile Long Tom Artillery |   | • | • | • | • | • | • |   |   |   |   |
+| Mongoose BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Nova Cat OmniMech |   |   |   |   | • | • |   |   |   |   |   |
+| Nova OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| Ostroc BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Ostscout BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Pack Hunter BattleMech |   |   |   |   | • | • | • |   |   |   |   |
+| Phoenix Hawk BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Phoenix Hawk IIC BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Pike Support Vehicle |   |   |   |   | • | • | • |   |   |   |   |
+| Pillager BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Piranha BattleMech |   |   |   |   | • | • | • |   |   |   |   |
+| Rifleman BattleMech |   | • | • |   |   |   | • |   |   |   |   |
+| Rifleman IIC BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Sentinel BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Shadow Cat OmniMech |   |   |   |   | • | • | • |   |   |   |   |
+| Shadow Hawk BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Shadow Hawk IIC BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Spirit Walker OmniMech |   | • | • | • | • |   |   |   |   |   |   |
+| SRM Carrier |   | • |   |   |   |   |   |   |   |   |   |
+| Stalker BattleMech |   | • | • | • | • | • |   |   |   |   |   |
+| Stinger BattleMech |   | • | • | • | • | • |   |   |   |   |   |
+| Stone Rhino BattleMech |   |   | • | • | • | • | • |   |   |   |   |
+| Stormcrow OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| Summoner OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| Supernova BattleMech |   |   |   | • | • | • | • |   |   |   |   |
+| Thug BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Thunderbolt BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Timber Wolf OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| Vapor Eagle BattleMech |   |   | • | • | • | • | • |   |   |   |   |
+| Viper OmniMech |   |   | • | • | • | • | • |   |   |   |   |
+| Von Luckner Heavy Tank |   | • | • | • | • | • | • |   |   |   |   |
+| Vulcan BattleMech |   | • |   |   |   |   |   |   |   |   |   |
+| Warhammer BattleMech |   | • | • | • | • | • | • |   |   |   |   |
+| Warhammer IIC BattleMech |   |   | • | • | • | • | • |   |   |   |   |
+| Warhawk OmniMech |   |   | • | • | • | • | • |   |   |   |   |
 
