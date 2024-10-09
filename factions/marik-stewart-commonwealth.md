@@ -39,23 +39,23 @@
 | Hatchetman BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Havoc BattleMech |   |   |   |   |   |   |   |   | • | • |   |
 | Hel BattleMech |   |   |   |   |   |   |   | • | • | • |   |
+| Hellbringer OmniMech |   |   |   |   |   |   |   |   |   | • |   |
 | Hermes II BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Hetzer Wheeled Assault Gun |   |   |   |   |   |   |   | • | • | • |   |
 | Highlander BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Hunchback BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Icarus II BattleMech |   |   |   |   |   |   |   | • | • | • |   |
+| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • |   |
 | IS Standard Battle Armor |   |   |   |   |   |   |   | • | • | • |   |
 | J. Edgar Light Hover Tank |   |   |   |   |   |   |   | • | • | • |   |
 | King Crab BattleMech |   |   |   |   |   |   |   | • | • | • |   |
-| Locust IIC BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Locust BattleMech |   |   |   |   |   |   |   | • | • | • |   |
-| Hellbringer OmniMech |   |   |   |   |   |   |   |   |   | • |   |
+| Locust IIC BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Longbow BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | LRM Carrier |   |   |   |   |   |   |   | • | • | • |   |
-| Savage Wolf OmniMech |   |   |   |   |   |   |   |   |   | • |   |
 | Manticore Heavy Tank |   |   |   |   |   |   |   | • | • | • |   |
-| Marauder II BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Marauder BattleMech |   |   |   |   |   |   |   | • | • | • |   |
+| Marauder II BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | MASH Truck |   |   |   |   |   |   |   | • | • | • |   |
 | Maxim Heavy Hover Transport |   |   |   |   |   |   |   | • | • | • |   |
 | Mobile Headquarters |   |   |   |   |   |   |   | • | • | • |   |
@@ -68,18 +68,19 @@
 | Ostsol BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Patton Tank |   |   |   |   |   |   |   |   | • | • |   |
 | Pegasus Scout Hover Tank |   |   |   |   |   |   |   | • | • | • |   |
-| Phoenix Hawk IIC BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Phoenix Hawk BattleMech |   |   |   |   |   |   | • | • | • | • |   |
+| Phoenix Hawk IIC BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Pike Support Vehicle |   |   |   |   |   |   |   | • | • | • |   |
 | Quickdraw BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Regent OmniMech |   |   |   |   |   |   |   |   |   | • |   |
 | Rifleman BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Rifleman IIC BattleMech |   |   |   |   |   |   |   | • | • | • |   |
+| Savage Wolf OmniMech |   |   |   |   |   |   |   |   |   | • |   |
 | Savannah Master Hovercraft |   |   |   |   |   |   |   |   | • | • |   |
 | Schrek PPC Carrier |   |   |   |   |   |   |   | • | • | • |   |
 | Scorpion BattleMech |   |   |   |   |   |   |   | • | • | • |   |
-| Shadow Hawk IIC BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Shadow Hawk BattleMech |   |   |   |   |   |   |   | • | • | • |   |
+| Shadow Hawk IIC BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Skulker Wheeled Scout Tank |   |   |   |   |   |   |   | • | • | • |   |
 | SM Tank Destroyer |   |   |   |   |   |   |   |   |   | • |   |
 | Spider BattleMech |   |   |   |   |   |   |   | • | • | • |   |
@@ -93,7 +94,6 @@
 | Valkyrie BattleMech |   |   |   |   |   |   |   |   | • | • |   |
 | Vedette Medium Tank |   |   |   |   |   |   |   | • | • | • |   |
 | Victor BattleMech |   |   |   |   |   |   |   | • | • | • |   |
-| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • |   |
 | Von Luckner Heavy Tank |   |   |   |   |   |   |   |   | • | • |   |
 | Vulcan BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Warhammer BattleMech |   |   |   |   |   |   |   | • | • | • |   |

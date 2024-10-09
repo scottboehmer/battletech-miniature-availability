@@ -49,6 +49,7 @@
 | Hunchback BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | Icarus BattleMech |   |   |   |   |   |   | • | • | • | • | • |
 | Icarus II BattleMech |   |   |   |   |   |   |   | • | • | • | • |
+| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | IS Standard Battle Armor |   |   |   |   |   | • | • | • | • | • | • |
 | J. Edgar Light Hover Tank |   |   | • | • | • | • | • | • | • | • | • |
 | Javelin BattleMech |   |   | • | • | • | • | • | • | • | • | • |
@@ -58,8 +59,8 @@
 | Longbow BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | LRM Carrier |   |   | • | • | • | • | • | • | • | • | • |
 | Manticore Heavy Tank |   |   | • | • | • | • | • | • | • | • | • |
-| Marauder II BattleMech |   |   |   |   |   | • | • | • | • | • | • |
 | Marauder BattleMech |   |   | • | • | • | • | • | • | • | • | • |
+| Marauder II BattleMech |   |   |   |   |   | • | • | • | • | • | • |
 | MASH Truck |   |   | • | • | • | • | • | • | • | • | • |
 | Maxim Heavy Hover Transport |   |   | • | • | • | • | • | • | • | • | • |
 | Merlin BattleMech |   |   |   |   | • | • | • | • | • | • | • |
@@ -76,8 +77,8 @@
 | Phoenix Hawk BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | Pike Support Vehicle |   |   | • | • | • | • | • | • | • | • | • |
 | Quickdraw BattleMech |   |   | • | • | • | • | • | • | • | • | • |
-| Rifleman IIC BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Rifleman BattleMech |   |   | • | • | • | • | • | • | • | • | • |
+| Rifleman IIC BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Schrek PPC Carrier |   |   | • | • | • | • | • | • | • | • | • |
 | Scorpion BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | Shadow Hawk BattleMech |   |   | • | • | • | • | • | • | • | • | • |
@@ -91,7 +92,6 @@
 | Vedette Medium Tank |   |   | • | • | • | • | • | • | • | • | • |
 | Victor BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | Vindicator BattleMech |   |   |   |   |   | • | • | • | • | • | • |
-| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Vulcan BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | Warhammer BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | Warrior Attack Helicopter |   |   | • | • | • | • | • | • | • | • | • |

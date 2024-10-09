@@ -48,6 +48,7 @@
 | Highlander BattleMech |   |   |   |   |   |   |   |   | • | • | • |
 | Hunchback BattleMech |   |   |   |   |   |   | • | • | • | • | • |
 | Icarus BattleMech |   |   |   |   |   |   | • | • | • | • | • |
+| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | IS Standard Battle Armor |   |   |   |   |   |   | • | • | • | • | • |
 | J. Edgar Light Hover Tank |   |   |   |   |   |   | • | • | • | • | • |
 | Javelin BattleMech |   |   |   |   |   |   | • | • | • | • | • |
@@ -90,7 +91,6 @@
 | Vedette Medium Tank |   |   |   |   |   |   | • | • | • | • | • |
 | Victor BattleMech |   |   |   |   |   |   | • | • | • | • | • |
 | Vindicator BattleMech |   |   |   |   |   |   | • | • | • | • | • |
-| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Vulcan BattleMech |   |   |   |   |   |   | • | • | • | • | • |
 | Warhammer BattleMech |   |   |   |   |   |   | • | • | • | • | • |
 | Warrior Attack Helicopter |   |   |   |   |   |   | • | • | • | • | • |

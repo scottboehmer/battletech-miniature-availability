@@ -23,8 +23,8 @@
 | Highlander BattleMech |   | • |   |   |   |   |   |   |   |   |   |
 | Kintaro BattleMech |   | • |   |   |   |   |   |   |   |   |   |
 | Lancelot BattleMech |   | • |   |   |   |   |   |   |   |   |   |
-| Locust IIC BattleMech |   | • |   |   |   |   |   |   |   |   |   |
 | Locust BattleMech |   | • |   |   |   |   |   |   |   |   |   |
+| Locust IIC BattleMech |   | • |   |   |   |   |   |   |   |   |   |
 | Longbow BattleMech |   | • |   |   |   |   |   |   |   |   |   |
 | LRM Carrier |   | • |   |   |   |   |   |   |   |   |   |
 | Marauder BattleMech |   | • |   |   |   |   |   |   |   |   |   |

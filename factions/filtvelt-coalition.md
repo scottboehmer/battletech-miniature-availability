@@ -13,6 +13,7 @@
 | Behemoth Heavy Tank |   |   |   |   |   |   | • | • | • | • | • |
 | Black Knight BattleMech |   |   |   |   |   |   |   | • | • | • | • |
 | Blackjack BattleMech |   |   |   |   |   |   | • | • | • | • | • |
+| Blood Asp OmniMech |   |   |   |   |   |   |   |   |   |   | • |
 | Browning Mobile HQ |   |   |   |   |   |   |   |   |   | • | • |
 | Bulldog Medium Tank |   |   |   |   |   |   | • | • | • | • | • |
 | Caesar BattleMech |   |   |   |   |   |   | • | • | • | • | • |
@@ -47,6 +48,7 @@
 | Hetzer Wheeled Assault Gun |   |   |   |   |   |   | • | • | • | • | • |
 | Highlander BattleMech |   |   |   |   |   |   |   |   | • | • | • |
 | Hunchback BattleMech |   |   |   |   |   |   | • | • | • | • | • |
+| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | IS Standard Battle Armor |   |   |   |   |   |   |   |   |   | • | • |
 | J. Edgar Light Hover Tank |   |   |   |   |   |   | • | • | • | • | • |
 | Javelin BattleMech |   |   |   |   |   |   | • | • | • | • | • |
@@ -84,14 +86,12 @@
 | Spider BattleMech |   |   |   |   |   |   | • | • | • | • | • |
 | SRM Carrier |   |   |   |   |   |   | • | • | • | • | • |
 | Stalker BattleMech |   |   |   |   |   |   | • | • | • | • | • |
-| Blood Asp OmniMech |   |   |   |   |   |   |   |   |   |   | • |
 | Stinger BattleMech |   |   |   |   |   |   | • | • | • | • | • |
 | Thunderbolt BattleMech |   |   |   |   |   |   | • | • | • | • | • |
 | Trebuchet BattleMech |   |   |   |   |   |   | • | • | • | • | • |
 | Valkyrie BattleMech |   |   |   |   |   |   | • | • | • | • | • |
 | Vedette Medium Tank |   |   |   |   |   |   | • | • | • | • | • |
 | Victor BattleMech |   |   |   |   |   |   | • | • | • | • | • |
-| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Vulcan BattleMech |   |   |   |   |   |   | • | • | • | • | • |
 | Warhammer BattleMech |   |   |   |   |   |   | • | • | • | • | • |
 | Warrior Attack Helicopter |   |   |   |   |   |   | • | • | • | • | • |

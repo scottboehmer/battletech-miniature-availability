@@ -3,6 +3,7 @@
 | Unit | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Archer BattleMech | • | • | • | • | • | • | • |   |   | • | • |
+| Arctic Cheetah OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Assassin BattleMech |   | • | • | • | • | • | • |   |   |   | • |
 | Atlas BattleMech |   | • | • | • | • | • | • |   |   | • | • |
 | Atlas II BattleMech |   |   |   |   |   |   |   |   |   | • | • |
@@ -11,7 +12,6 @@
 | Banshee BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | BattleMaster BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Behemoth Heavy Tank |   |   |   |   | • | • | • |   |   | • | • |
-| Nova OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Black Knight BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Blackjack BattleMech |   |   | • | • | • | • | • |   |   |   |   |
 | Browning Mobile HQ | • | • |   |   |   |   |   |   |   | • | • |
@@ -29,22 +29,21 @@
 | Crockett BattleMech |   | • | • |   |   |   |   |   |   |   |   |
 | Crusader BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Cyclops BattleMech |   | • | • | • | • | • | • |   |   | • | • |
-| Dire Wolf OmniMech |   |   |   |   |   | • | • |   |   |   |   |
-| Fire Moth OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Demolisher Heavy Tank |   | • | • | • | • | • | • |   |   | • | • |
 | Dervish BattleMech | • | • | • | • | • | • | • |   |   |   |   |
-| Viper OmniMech |   |   |   |   |   | • | • |   |   |   |   |
+| Dire Wolf OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Drillson Heavy Hover Tank |   |   |   | • | • | • | • |   |   | • | • |
 | Emperor BattleMech | • | • |   |   | • | • | • |   |   | • | • |
 | Eris BattleMech |   |   |   |   |   |   |   |   |   | • | • |
+| Executioner OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Exterminator BattleMech |   | • | • | • | • |   |   |   |   |   |   |
-| Ice Ferret OmniMech |   |   |   |   |   | • | • |   |   |   |   |
+| Fire Moth OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Firebee BattleMech |   |   |   |   |   |   | • |   |   |   |   |
 | Firestarter BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Flashman BattleMech | • | • |   |   |   |   | • |   |   |   |   |
 | Flea BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Galleon Light Tank | • | • | • | • | • | • | • |   |   | • | • |
-| Executioner OmniMech |   |   |   |   |   | • | • |   |   |   |   |
+| Gargoyle OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Gladiator BattleMech |   |   |   |   |   |   | • |   |   | • | • |
 | Goliath BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Grasshopper BattleMech |   | • | • | • | • | • | • |   |   |   |   |
@@ -53,17 +52,20 @@
 | Guillotine BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Guillotine IIC BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Gunslinger BattleMech |   |   |   |   |   |   |   |   |   | • | • |
-| Arctic Cheetah OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Hatchetman BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Havoc BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Hel BattleMech |   |   |   |   |   |   |   |   |   | • | • |
+| Hellbringer OmniMech |   |   |   |   |   | • | • |   |   | • | • |
 | Hermes II BattleMech |   | • | • | • | • | • | • |   |   | • | • |
 | Hetzer Wheeled Assault Gun |   | • | • | • | • | • | • |   |   | • | • |
 | Highlander BattleMech | • | • |   |   |   |   |   |   |   | • | • |
 | Hunchback BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Hunchback IIC BattleMech |   |   |   |   |   | • | • |   |   |   |   |
+| Huntsman OmniMech |   |   |   |   |   |   |   |   |   | • | • |
 | Icarus BattleMech |   |   |   |   |   |   | • |   |   |   |   |
 | Icarus II BattleMech | • | • |   |   |   |   | • |   |   | • | • |
+| Ice Ferret OmniMech |   |   |   |   |   | • | • |   |   |   |   |
+| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | IS Standard Battle Armor |   |   |   |   | • | • | • |   |   | • | • |
 | J. Edgar Light Hover Tank | • | • | • | • | • | • | • |   |   | • | • |
 | Jackalope BattleMech |   |   |   |   |   |   |   |   |   | • | • |
@@ -72,28 +74,24 @@
 | King Crab BattleMech |   | • | • | • | • | • | • |   |   | • | • |
 | Kingfisher OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Kintaro BattleMech | • | • |   |   |   |   |   |   |   |   |   |
-| Mist Lynx OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Lancelot BattleMech |   | • |   |   |   |   |   |   |   |   |   |
 | Locust BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Locust IIC BattleMech |   |   |   |   |   | • | • |   |   | • | • |
-| Hellbringer OmniMech |   |   |   |   |   | • | • |   |   | • | • |
 | Longbow BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | LRM Carrier | • | • | • | • | • | • | • |   |   | • | • |
 | Mackie BattleMech |   |   |   |   |   |   | • |   |   | • |   |
-| Savage Wolf OmniMech |   |   |   |   |   |   |   |   |   | • | • |
-| Gargoyle OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Manticore Heavy Tank | • | • | • | • | • | • | • |   |   | • | • |
-| Marauder II BattleMech |   |   |   |   |   | • | • |   |   | • | • |
 | Marauder BattleMech | • | • | • | • | • | • | • |   |   | • | • |
-| Warhawk OmniMech |   |   |   |   |   | • | • |   |   |   |   |
+| Marauder II BattleMech |   |   |   |   |   | • | • |   |   | • | • |
 | MASH Truck | • | • | • | • | • | • | • |   |   | • | • |
 | Maxim Heavy Hover Transport | • | • | • | • | • | • | • |   |   | • | • |
 | Mercury BattleMech |   | • |   |   |   | • | • |   |   | • | • |
+| Mist Lynx OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Mobile Headquarters | • | • | • | • | • | • | • |   |   | • | • |
 | Mobile Long Tom Artillery | • | • | • | • | • | • | • |   |   | • | • |
 | Mongoose BattleMech | • | • | • | • | • |   |   |   |   | • |   |
 | Nightsky BattleMech |   |   |   |   |   |   |   |   |   | • | • |
-| Huntsman OmniMech |   |   |   |   |   |   |   |   |   | • | • |
+| Nova OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Ontos Heavy Tank |   | • | • | • | • | • | • |   |   | • | • |
 | Orion BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Ostroc BattleMech | • | • | • | • | • | • | • |   |   | • | • |
@@ -102,8 +100,8 @@
 | Pack Hunter BattleMech |   |   |   |   |   |   |   |   |   |   | • |
 | Patton Tank |   |   |   |   |   |   |   |   |   | • | • |
 | Pegasus Scout Hover Tank |   | • | • | • | • | • | • |   |   | • | • |
-| Phoenix Hawk IIC BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Phoenix Hawk BattleMech | • | • | • | • | • | • | • |   |   | • | • |
+| Phoenix Hawk IIC BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Pike Support Vehicle |   |   | • | • | • | • | • |   |   | • | • |
 | Pillager BattleMech | • | • |   |   |   |   |   |   |   |   |   |
 | Piranha BattleMech |   |   |   |   |   |   |   |   |   | • | • |
@@ -113,13 +111,14 @@
 | Rifleman BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Rifleman IIC BattleMech |   |   |   |   |   |   | • |   |   | • | • |
 | Rommel Tank |   |   |   |   |   |   |   |   |   | • | • |
+| Savage Wolf OmniMech |   |   |   |   |   |   |   |   |   | • | • |
 | Savannah Master Hovercraft |   |   |   |   |   |   |   |   |   | • | • |
 | Schrek PPC Carrier |   | • | • | • | • | • | • |   |   | • | • |
 | Scorpion BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Sentinel BattleMech | • | • |   |   |   |   |   |   |   |   |   |
 | Shadow Cat OmniMech |   |   |   |   |   |   |   |   |   | • | • |
-| Shadow Hawk IIC BattleMech |   |   |   |   |   |   | • |   |   | • | • |
 | Shadow Hawk BattleMech | • | • | • | • | • | • | • |   |   | • | • |
+| Shadow Hawk IIC BattleMech |   |   |   |   |   |   | • |   |   | • | • |
 | Shogun BattleMech |   | • |   |   |   |   |   |   |   |   |   |
 | Skulker Wheeled Scout Tank |   | • | • | • | • | • | • |   |   | • | • |
 | SM Tank Destroyer |   |   |   |   |   |   |   |   |   | • | • |
@@ -131,19 +130,20 @@
 | Starslayer BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Stinger BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | SturmFeur Heavy Tank |   |   |   |   |   |   |   |   |   | • | • |
-| Supernova BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Summoner OmniMech |   |   |   |   |   | • | • |   |   |   |   |
+| Supernova BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Thug BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Thunderbolt BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Trebuchet BattleMech |   | • | • | • | • | • | • |   |   | • | • |
 | Valkyrie BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Vedette Medium Tank |   |   | • | • | • | • | • |   |   | • | • |
 | Victor BattleMech | • | • | • | • | • | • | • |   |   | • | • |
-| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
+| Viper OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Von Luckner Heavy Tank | • | • | • | • | • | • | • |   |   | • | • |
 | Vulcan BattleMech |   | • | • | • | • | • | • |   |   | • | • |
 | Warhammer BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Warhammer IIC BattleMech |   |   |   |   |   |   | • |   |   | • | • |
+| Warhawk OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Warrior Attack Helicopter |   |   | • | • | • | • | • |   |   | • | • |
 | Wasp BattleMech | • | • | • | • | • | • | • |   |   | • | • |
 | Wendigo OmniMech |   |   |   |   |   |   |   |   |   | • | • |

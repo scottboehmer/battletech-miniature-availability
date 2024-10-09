@@ -12,6 +12,7 @@
 | Behemoth Heavy Tank |   |   |   |   | • | • | • | • | • | • | • |
 | Black Knight BattleMech |   |   |   |   |   |   |   | • |   |   |   |
 | Blackjack BattleMech |   |   | • | • | • | • | • | • | • | • | • |
+| Blood Asp OmniMech |   |   |   |   |   |   |   |   |   |   | • |
 | Browning Mobile HQ | • | • |   |   |   |   |   |   | • | • | • |
 | Bulldog Medium Tank | • | • | • | • | • | • | • | • | • | • | • |
 | Cataphract BattleMech |   |   |   |   |   | • | • | • | • | • | • |
@@ -51,6 +52,7 @@
 | Hunchback BattleMech | • | • | • | • | • | • | • | • | • | • | • |
 | Icarus BattleMech |   |   |   |   |   |   | • | • | • |   |   |
 | Icarus II BattleMech | • | • |   |   |   |   |   |   |   |   |   |
+| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | IS Standard Battle Armor |   |   |   |   |   | • | • | • | • | • | • |
 | J. Edgar Light Hover Tank | • | • | • | • | • | • | • | • | • | • | • |
 | Javelin BattleMech |   | • | • | • | • | • | • | • | • | • | • |
@@ -60,8 +62,8 @@
 | Longbow BattleMech | • | • | • | • | • | • | • | • | • | • | • |
 | LRM Carrier | • | • | • | • | • | • | • | • | • | • | • |
 | Manticore Heavy Tank | • | • | • | • | • | • | • | • | • | • | • |
-| Marauder II BattleMech |   |   |   |   |   |   |   | • | • | • | • |
 | Marauder BattleMech | • | • | • | • | • | • | • | • | • | • | • |
+| Marauder II BattleMech |   |   |   |   |   |   |   | • | • | • | • |
 | MASH Truck | • | • | • | • | • | • | • | • | • | • | • |
 | Maxim Heavy Hover Transport | • | • | • | • | • | • | • | • | • | • | • |
 | Merlin BattleMech |   |   |   |   | • | • | • | • | • | • | • |
@@ -86,7 +88,6 @@
 | Spider BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | SRM Carrier | • | • | • | • | • | • | • | • | • | • | • |
 | Stalker BattleMech | • | • | • | • | • | • | • | • | • | • | • |
-| Blood Asp OmniMech |   |   |   |   |   |   |   |   |   |   | • |
 | Starslayer BattleMech |   |   |   |   | • | • | • | • | • | • | • |
 | Stinger BattleMech | • | • | • | • | • | • | • | • | • | • | • |
 | Thug BattleMech |   |   |   |   |   |   |   | • | • | • | • |
@@ -96,11 +97,10 @@
 | Vedette Medium Tank |   |   | • | • | • | • | • | • | • | • | • |
 | Victor BattleMech | • | • | • | • | • | • | • | • | • | • | • |
 | Vindicator BattleMech |   |   |   |   |   | • | • | • | • | • | • |
-| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Von Luckner Heavy Tank | • | • |   |   |   |   |   |   |   |   |   |
 | Vulcan BattleMech | • | • | • | • | • | • | • | • | • | • | • |
-| Warhammer IIC BattleMech |   |   |   |   |   |   |   | • | • | • | • |
 | Warhammer BattleMech | • | • | • | • | • | • | • | • | • | • | • |
+| Warhammer IIC BattleMech |   |   |   |   |   |   |   | • | • | • | • |
 | Warrior Attack Helicopter |   |   | • | • | • | • | • | • | • | • | • |
 | Wasp BattleMech | • | • | • | • | • | • | • | • | • | • | • |
 | Whitworth BattleMech | • | • | • | • | • | • | • | • | • | • | • |

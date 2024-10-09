@@ -24,6 +24,7 @@
 | Clint BattleMech |   |   | • |   |   |   |   | • | • | • | • |
 | Commando BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | Condor Heavy Hover Tank | • | • | • | • | • | • | • | • | • | • | • |
+| Conjurer BattleMech |   |   |   |   |   |   |   |   |   | • |   |
 | Crab BattleMech |   | • | • | • | • |   |   |   |   |   |   |
 | Crusader BattleMech | • | • | • | • | • | • | • | • | • | • | • |
 | Cyclops BattleMech |   |   | • | • | • | • | • | • | • | • | • |
@@ -43,12 +44,12 @@
 | Griffin IIC BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Guillotine BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | Hatchetman BattleMech |   |   |   |   |   | • | • | • | • | • | • |
-| Conjurer BattleMech |   |   |   |   |   |   |   |   |   | • |   |
 | Hermes II BattleMech |   |   |   |   |   | • | • |   |   |   |   |
 | Hetzer Wheeled Assault Gun |   | • | • | • | • | • | • | • | • | • | • |
 | Highlander BattleMech |   |   |   |   |   |   |   |   | • | • | • |
 | Hunchback BattleMech | • | • | • | • | • | • | • | • | • | • | • |
 | Icarus II BattleMech |   |   |   |   |   |   |   |   |   |   | • |
+| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | IS Standard Battle Armor |   |   |   |   |   |   |   |   |   | • | • |
 | J. Edgar Light Hover Tank | • | • | • | • | • | • | • | • | • | • | • |
 | Javelin BattleMech |   |   | • | • | • | • | • | • | • | • | • |
@@ -73,15 +74,15 @@
 | Ostsol BattleMech | • | • | • | • | • | • | • | • | • | • | • |
 | Panther BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | Pegasus Scout Hover Tank |   |   | • | • | • | • | • | • | • | • | • |
-| Phoenix Hawk IIC BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Phoenix Hawk BattleMech | • | • | • | • | • | • | • | • |   | • | • |
+| Phoenix Hawk IIC BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Pike Support Vehicle |   |   | • | • | • | • | • | • | • | • | • |
 | Quickdraw BattleMech |   | • | • | • | • | • | • | • | • | • | • |
 | Rifleman BattleMech |   | • | • | • | • | • | • | • | • | • | • |
 | Schrek PPC Carrier |   | • | • | • | • | • | • | • | • | • | • |
 | Scorpion BattleMech | • | • | • | • | • | • | • | • | • | • | • |
-| Shadow Hawk IIC BattleMech |   |   |   |   |   |   |   |   |   | • |   |
 | Shadow Hawk BattleMech | • | • | • | • | • | • | • | • | • | • | • |
+| Shadow Hawk IIC BattleMech |   |   |   |   |   |   |   |   |   | • |   |
 | Spider BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | SRM Carrier | • | • | • | • | • | • | • | • | • | • | • |
 | Stalker BattleMech | • | • | • | • | • | • | • | • | • | • | • |
@@ -93,7 +94,6 @@
 | Vedette Medium Tank |   |   | • | • | • | • | • | • | • | • | • |
 | Victor BattleMech | • | • | • | • | • | • | • | • | • | • | • |
 | Vindicator BattleMech |   |   |   |   |   |   |   | • | • | • | • |
-| Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Von Luckner Heavy Tank | • | • |   |   |   |   | • | • | • |   |   |
 | Vulcan BattleMech | • |   | • | • | • | • | • | • | • | • | • |
 | Warhammer BattleMech | • | • | • | • | • | • | • | • | • | • | • |

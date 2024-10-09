@@ -72,8 +72,8 @@
 | Rommel Tank |   |   |   |   |   |   | • | • |   |   |   |
 | Schrek PPC Carrier |   | • | • | • | • | • | • |   |   |   |   |
 | Scorpion BattleMech | • | • | • | • | • | • | • |   |   |   |   |
-| Shadow Hawk IIC BattleMech |   |   |   |   |   |   | • | • |   |   |   |
 | Shadow Hawk BattleMech | • | • | • | • | • | • | • |   |   |   |   |
+| Shadow Hawk IIC BattleMech |   |   |   |   |   |   | • | • |   |   |   |
 | Spider BattleMech |   | • | • | • | • | • | • |   |   |   |   |
 | SRM Carrier | • | • | • | • | • | • | • |   |   |   |   |
 | Stalker BattleMech | • | • | • | • | • | • | • |   |   |   |   |
