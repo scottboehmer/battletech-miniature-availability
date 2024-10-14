@@ -2,6 +2,7 @@
 
 | Unit | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Adder OmniMech |   |   |   |   | • | • | • | • | • | • | • |
 | Annihilator BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | Archer BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | Assassin BattleMech |   |   | • | • | • | • | • |   |   |   |   |
@@ -70,6 +71,7 @@
 | IS Standard Battle Armor |   |   |   |   | • | • | • | • | • | • | • |
 | J. Edgar Light Hover Tank |   |   |   |   |   |   |   |   |   |   | • |
 | Jackalope BattleMech |   |   |   |   |   |   |   |   |   |   | • |
+| JagerMech |   |   |   |   | • | • | • |   |   |   |   |
 | Javelin BattleMech |   |   | • | • | • | • | • |   |   |   |   |
 | Jenner BattleMech |   |   | • | • | • | • | • |   |   |   |   |
 | King Crab BattleMech |   |   |   |   | • | • | • |   |   |   |   |
@@ -138,6 +140,7 @@
 | Timber Wolf OmniMech |   |   |   |   | • | • | • | • | • | • | • |
 | Trebuchet BattleMech |   |   | • | • | • | • | • |   |   |   |   |
 | Turkina OmniMech |   |   |   |   |   |   |   |   |   |   | • |
+| UrbanMech |   |   |   |   |   | • | • |   |   |   |   |
 | Valkyrie BattleMech |   |   | • | • | • | • | • |   |   | • | • |
 | Vedette Medium Tank |   |   | • | • | • | • | • |   |   |   |   |
 | Victor BattleMech |   |   | • | • | • | • | • | • | • | • |   |

@@ -2,6 +2,7 @@
 
 | Unit | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Adder OmniMech |   |   |   |   |   |   |   | • | • | • | • |
 | Annihilator BattleMech |   |   |   |   |   |   |   | • | • | • | • |
 | Archer BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Atlas BattleMech |   |   |   |   |   |   |   | • | • | • | • |

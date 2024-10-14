@@ -62,6 +62,7 @@
 | Stinger BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | Thug BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | Thunderbolt BattleMech | • |   |   |   |   |   |   |   |   |   |   |
+| UrbanMech | • |   |   |   |   |   |   |   |   |   |   |
 | Victor BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | Von Luckner Heavy Tank | • |   |   |   |   |   |   |   |   |   |   |
 | Warhammer BattleMech | • |   |   |   |   |   |   |   |   |   |   |

@@ -2,6 +2,7 @@
 
 | Unit | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Adder OmniMech |   |   |   |   |   |   |   | • | • | • |   |
 | Annihilator BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Archer BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Arctic Cheetah OmniMech |   |   |   |   |   |   |   | • | • | • |   |
@@ -69,6 +70,7 @@
 | IS Standard Battle Armor |   |   |   |   |   |   |   | • | • | • |   |
 | J. Edgar Light Hover Tank |   |   |   |   |   |   |   | • | • | • |   |
 | Jackalope BattleMech |   |   |   |   |   |   |   |   |   | • |   |
+| JagerMech |   |   |   |   |   |   |   | • | • | • |   |
 | Javelin BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Jenner BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Jenner IIC BattleMech |   |   |   |   |   |   |   | • | • | • |   |
@@ -139,6 +141,7 @@
 | Thunderbolt BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Timber Wolf OmniMech |   |   |   |   |   |   |   | • | • | • |   |
 | Trebuchet BattleMech |   |   |   |   |   |   |   | • | • | • |   |
+| UrbanMech |   |   |   |   |   |   |   | • | • | • |   |
 | Valkyrie BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Vapor Eagle BattleMech |   |   |   |   |   |   |   |   |   | • |   |
 | Vedette Medium Tank |   |   |   |   |   |   |   | • | • | • |   |

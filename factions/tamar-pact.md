@@ -88,6 +88,7 @@
 | SturmFeur Heavy Tank |   |   |   |   |   |   |   |   |   |   | • |
 | Thunder Hawk BattleMech |   |   |   |   |   |   |   |   |   |   | • |
 | Thunderbolt BattleMech |   |   |   |   |   |   |   |   |   |   | • |
+| UrbanMech |   |   |   |   |   |   |   |   |   |   | • |
 | Valkyrie BattleMech |   |   |   |   |   |   |   |   |   |   | • |
 | Vedette Medium Tank |   |   |   |   |   |   |   |   |   |   | • |
 | Victor BattleMech |   |   |   |   |   |   |   |   |   |   | • |

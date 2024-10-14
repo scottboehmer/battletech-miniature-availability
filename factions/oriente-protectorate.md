@@ -96,6 +96,7 @@
 | Thug BattleMech |   |   |   |   |   |   |   | • | • |   |   |
 | Thunderbolt BattleMech |   |   |   |   |   |   |   | • | • | • |   |
 | Trebuchet BattleMech |   |   |   |   |   |   |   | • | • | • |   |
+| UrbanMech |   |   |   |   |   |   |   | • | • | • |   |
 | Valkyrie BattleMech |   |   |   |   |   |   |   |   |   | • |   |
 | Vedette Medium Tank |   |   |   |   |   |   |   | • | • | • |   |
 | Victor BattleMech |   |   |   |   |   |   |   | • | • | • |   |

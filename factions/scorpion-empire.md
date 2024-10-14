@@ -2,6 +2,7 @@
 
 | Unit | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Adder OmniMech |   |   |   |   |   |   |   |   |   | • | • |
 | Archer BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Atlas BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Atlas II BattleMech |   |   |   |   |   |   |   |   |   | • | • |
@@ -44,6 +45,7 @@
 | Ice Ferret OmniMech |   |   |   |   |   |   |   |   |   | • | • |
 | Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | IS Standard Battle Armor |   |   |   |   |   |   |   |   |   | • | • |
+| JagerMech |   |   |   |   |   |   |   |   |   | • |   |
 | Jenner IIC BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Kingfisher OmniMech |   |   |   |   |   |   |   |   |   | • | • |
 | Kit Fox OmniMech |   |   |   |   |   |   |   |   |   | • | • |
@@ -80,6 +82,7 @@
 | Thunderbolt BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Timber Wolf OmniMech |   |   |   |   |   |   |   |   |   | • | • |
 | Turkina OmniMech |   |   |   |   |   |   |   |   |   | • | • |
+| UrbanMech |   |   |   |   |   |   |   |   |   | • | • |
 | Vapor Eagle BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Vedette Medium Tank |   |   |   |   |   |   |   |   |   | • | • |
 | Victor BattleMech |   |   |   |   |   |   |   |   |   | • |   |

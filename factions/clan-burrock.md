@@ -2,6 +2,7 @@
 
 | Unit | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Adder OmniMech |   |   |   | • | • |   | • |   |   |   |   |
 | Annihilator BattleMech |   | • | • | • | • |   | • |   |   |   |   |
 | Archer BattleMech |   | • | • | • | • |   | • |   |   |   |   |
 | Arctic Cheetah OmniMech |   |   |   |   | • |   | • |   |   |   |   |
@@ -72,6 +73,7 @@
 | Mobile Headquarters |   | • |   |   |   |   |   |   |   |   |   |
 | Mobile Long Tom Artillery |   | • | • | • | • |   | • |   |   |   |   |
 | Mongoose BattleMech |   | • | • | • | • |   | • |   |   |   |   |
+| Night Chanter OmniMech |   | • | • |   |   |   |   |   |   |   |   |
 | Night Gyr OmniMech |   |   |   |   |   |   | • |   |   |   |   |
 | Nova Cat OmniMech |   |   |   |   |   |   | • |   |   |   |   |
 | Nova OmniMech |   |   | • | • | • |   | • |   |   |   |   |

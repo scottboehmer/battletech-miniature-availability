@@ -35,6 +35,7 @@
 | Hoplite BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | Hunchback BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | J. Edgar Light Hover Tank | • |   |   |   |   |   |   |   |   |   |   |
+| JagerMech | • |   |   |   |   |   |   |   |   |   |   |
 | Javelin BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | King Crab BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | Kintaro BattleMech | • |   |   |   |   |   |   |   |   |   |   |
@@ -73,6 +74,7 @@
 | Thunder Hawk BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | Thunderbolt BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | Trebuchet BattleMech | • |   |   |   |   |   |   |   |   |   |   |
+| UrbanMech | • |   |   |   |   |   |   |   |   |   |   |
 | Victor BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | Von Luckner Heavy Tank | • |   |   |   |   |   |   |   |   |   |   |
 | Vulcan BattleMech | • |   |   |   |   |   |   |   |   |   |   |

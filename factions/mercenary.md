@@ -2,6 +2,7 @@
 
 | Unit | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Adder OmniMech |   |   |   |   |   | • | • | • | • | • | • |
 | Annihilator BattleMech |   |   |   |   | • | • | • | • | • | • | • |
 | Archer BattleMech | • | • | • | • | • | • | • | • | • | • | • |
 | Arctic Cheetah OmniMech |   |   |   |   |   | • | • |   |   |   |   |
@@ -87,9 +88,11 @@
 | IS Standard Battle Armor |   |   |   |   | • | • | • | • | • | • | • |
 | J. Edgar Light Hover Tank | • | • | • | • | • | • | • | • | • | • | • |
 | Jackalope BattleMech |   |   |   |   |   |   |   |   |   | • | • |
+| JagerMech |   |   |   | • | • | • | • | • | • | • | • |
 | Javelin BattleMech |   | • | • | • | • | • | • | • | • | • | • |
 | Jenner BattleMech |   | • | • | • | • | • | • | • | • | • | • |
 | Jenner IIC BattleMech |   |   |   |   |   |   |   |   |   | • | • |
+| Katana BattleMech |   |   |   |   |   |   |   |   |   |   | • |
 | King Crab BattleMech |   |   |   |   | • | • | • | • | • | • | • |
 | Kingfisher OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Kintaro BattleMech |   |   |   |   | • | • | • | • | • |   |   |
@@ -161,6 +164,7 @@
 | Stinger BattleMech | • | • | • | • | • | • | • | • | • | • | • |
 | Stormcrow OmniMech |   |   |   |   |   | • | • | • | • | • | • |
 | SturmFeur Heavy Tank |   |   |   | • | • | • | • | • | • | • | • |
+| SuburbanMech |   |   |   | • | • | • | • | • | • | • | • |
 | Summoner OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Supernova BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Thug BattleMech | • | • |   | • | • | • | • | • | • | • | • |
@@ -168,6 +172,7 @@
 | Thunderbolt BattleMech | • | • | • | • | • | • | • | • | • | • | • |
 | Timber Wolf OmniMech |   |   |   |   | • | • | • | • | • | • | • |
 | Trebuchet BattleMech |   | • | • | • | • | • | • | • | • | • | • |
+| UrbanMech |   | • | • | • | • | • | • | • | • | • | • |
 | Valkyrie BattleMech |   | • | • | • | • | • | • | • | • | • | • |
 | Vedette Medium Tank |   |   | • | • | • | • | • | • | • | • | • |
 | Victor BattleMech | • | • | • | • | • | • | • | • | • | • | • |

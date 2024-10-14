@@ -43,6 +43,7 @@
 | Hetzer Wheeled Assault Gun |   | • | • | • | • | • | • |   |   |   |   |
 | Hunchback BattleMech |   | • | • | • | • | • | • |   |   |   |   |
 | J. Edgar Light Hover Tank |   | • | • | • | • | • | • |   |   |   |   |
+| JagerMech |   |   |   |   |   | • | • |   |   |   |   |
 | Javelin BattleMech |   |   | • | • | • | • | • |   |   |   |   |
 | Jenner BattleMech |   |   | • | • | • | • | • |   |   |   |   |
 | King Crab BattleMech |   |   |   |   |   |   | • |   |   |   |   |
@@ -77,6 +78,7 @@
 | Stinger BattleMech |   | • | • | • | • | • | • |   |   |   |   |
 | Thunderbolt BattleMech |   | • | • | • | • | • | • |   |   |   |   |
 | Trebuchet BattleMech |   |   | • | • | • | • | • |   |   |   |   |
+| UrbanMech |   |   | • | • | • | • | • |   |   |   |   |
 | Vedette Medium Tank |   |   | • | • | • | • | • |   |   |   |   |
 | Victor BattleMech |   | • | • | • | • | • | • |   |   |   |   |
 | Von Luckner Heavy Tank |   | • |   |   |   |   |   |   |   |   |   |

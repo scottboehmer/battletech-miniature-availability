@@ -2,6 +2,7 @@
 
 | Unit | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Adder OmniMech |   |   |   |   | • |   |   |   |   |   |   |
 | Annihilator BattleMech |   |   |   |   |   |   | • |   |   |   |   |
 | Archer BattleMech |   |   |   |   | • | • | • | • | • | • | • |
 | Assassin BattleMech |   |   |   |   |   | • |   |   |   |   |   |
@@ -79,6 +80,7 @@
 | Spirit Walker OmniMech |   |   |   |   |   |   |   | • | • | • |   |
 | Stalker BattleMech |   |   |   | • | • | • | • |   |   |   |   |
 | Stormcrow OmniMech |   |   |   |   | • |   |   |   |   |   |   |
+| SuburbanMech |   |   |   | • |   |   |   |   |   |   |   |
 | Summoner OmniMech |   |   |   |   |   |   | • | • |   |   |   |
 | Thug BattleMech | • |   |   |   |   | • | • |   |   |   |   |
 | Thunderbolt BattleMech |   |   |   | • | • |   |   | • | • |   |   |

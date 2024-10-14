@@ -52,6 +52,7 @@
 | Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | IS Standard Battle Armor |   |   |   |   |   |   |   |   |   | • | • |
 | J. Edgar Light Hover Tank | • | • | • | • | • | • | • | • | • | • | • |
+| JagerMech |   |   |   |   |   | • | • | • | • | • | • |
 | Javelin BattleMech |   |   | • | • | • | • | • | • | • | • | • |
 | Jenner BattleMech |   |   | • | • | • | • | • | • | • |   |   |
 | King Crab BattleMech |   |   |   |   |   |   |   |   | • | • | • |
@@ -90,6 +91,7 @@
 | Thug BattleMech | • |   |   |   |   |   |   | • | • | • | • |
 | Thunderbolt BattleMech | • | • | • | • | • | • | • | • | • | • | • |
 | Trebuchet BattleMech |   |   | • | • | • | • | • | • | • | • | • |
+| UrbanMech |   |   | • | • | • | • | • | • | • | • | • |
 | Valkyrie BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Vedette Medium Tank |   |   | • | • | • | • | • | • | • | • | • |
 | Victor BattleMech | • | • | • | • | • | • | • | • | • | • | • |

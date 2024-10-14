@@ -74,6 +74,7 @@
 | Thunder Hawk BattleMech |   | • |   |   |   |   |   |   |   |   |   |
 | Thunderbolt BattleMech |   | • |   |   |   |   |   |   |   |   |   |
 | Trebuchet BattleMech |   | • |   |   |   |   |   |   |   |   |   |
+| UrbanMech |   | • |   |   |   |   |   |   |   |   |   |
 | Victor BattleMech |   | • |   |   |   |   |   |   |   |   |   |
 | Von Luckner Heavy Tank |   | • |   |   |   |   |   |   |   |   |   |
 | Vulcan BattleMech |   | • |   |   |   |   |   |   |   |   |   |

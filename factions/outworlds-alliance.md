@@ -47,6 +47,7 @@
 | Hunchback BattleMech | • | • | • | • | • | • | • |   |   |   |   |
 | Icarus II BattleMech | • | • |   |   |   |   |   |   |   |   |   |
 | J. Edgar Light Hover Tank | • | • | • | • | • | • | • |   |   |   |   |
+| JagerMech |   |   |   |   | • | • | • |   |   |   |   |
 | Javelin BattleMech |   | • | • | • | • | • | • |   |   |   |   |
 | Jenner BattleMech |   | • | • | • | • | • | • | • |   |   |   |
 | Locust BattleMech | • | • | • | • | • | • | • |   |   |   |   |
@@ -81,6 +82,7 @@
 | Thug BattleMech |   |   |   |   |   | • | • |   |   |   |   |
 | Thunderbolt BattleMech | • | • | • | • | • | • | • |   |   |   |   |
 | Trebuchet BattleMech |   |   | • | • | • | • | • |   |   |   |   |
+| UrbanMech |   | • | • | • | • | • | • |   |   |   |   |
 | Vedette Medium Tank |   |   | • | • | • | • | • |   |   |   |   |
 | Victor BattleMech | • | • | • | • | • | • | • |   |   |   |   |
 | Von Luckner Heavy Tank | • | • |   |   |   |   |   |   |   |   |   |

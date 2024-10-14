@@ -2,6 +2,7 @@
 
 | Unit | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Adder OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Archer BattleMech |   | • | • | • | • | • | • | • | • | • | • |
 | Arctic Cheetah OmniMech |   |   |   |   |   | • | • |   |   |   |   |
 | Assassin BattleMech |   | • |   |   |   | • |   |   |   |   |   |
@@ -55,6 +56,7 @@
 | Incubus BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | IS Standard Battle Armor |   |   |   |   |   |   |   |   |   | • | • |
 | J. Edgar Light Hover Tank |   | • | • | • | • | • | • | • | • | • | • |
+| JagerMech |   |   |   |   | • | • | • |   |   |   |   |
 | Javelin BattleMech |   | • | • | • | • | • | • |   |   |   |   |
 | Jenner BattleMech |   |   | • | • | • | • | • |   |   |   |   |
 | King Crab BattleMech |   | • | • | • | • | • | • | • | • | • | • |
@@ -110,6 +112,7 @@
 | Thug BattleMech |   | • |   |   |   | • | • |   |   |   |   |
 | Thunderbolt BattleMech |   | • | • | • | • | • | • | • | • | • | • |
 | Trebuchet BattleMech |   |   | • | • | • | • | • | • | • | • | • |
+| UrbanMech |   | • | • | • | • | • | • | • | • | • | • |
 | Valkyrie BattleMech |   |   |   |   |   |   |   |   |   | • | • |
 | Vapor Eagle BattleMech |   |   |   |   |   |   |   |   | • | • | • |
 | Vedette Medium Tank |   |   | • | • | • | • | • | • | • | • | • |

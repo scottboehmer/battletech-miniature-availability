@@ -35,6 +35,7 @@
 | Hoplite BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | Hunchback BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | J. Edgar Light Hover Tank | • |   |   |   |   |   |   |   |   |   |   |
+| JagerMech | • |   |   |   |   |   |   |   |   |   |   |
 | King Crab BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | Kintaro BattleMech | • |   |   |   |   |   |   |   |   |   |   |
 | Lancelot BattleMech | • |   |   |   |   |   |   |   |   |   |   |

@@ -2,6 +2,7 @@
 
 | Unit | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Adder OmniMech |   |   |   |   |   |   |   |   |   |   | • |
 | Archer BattleMech |   |   |   |   |   |   |   |   |   |   | • |
 | Assassin BattleMech |   |   |   |   |   |   |   |   |   |   | • |
 | Atlas BattleMech |   |   |   |   |   |   |   |   |   |   | • |
@@ -88,6 +89,7 @@
 | SturmFeur Heavy Tank |   |   |   |   |   |   |   |   |   |   | • |
 | Thunder Hawk BattleMech |   |   |   |   |   |   |   |   |   |   | • |
 | Thunderbolt BattleMech |   |   |   |   |   |   |   |   |   |   | • |
+| UrbanMech |   |   |   |   |   |   |   |   |   |   | • |
 | Valkyrie BattleMech |   |   |   |   |   |   |   |   |   |   | • |
 | Vedette Medium Tank |   |   |   |   |   |   |   |   |   |   | • |
 | Victor BattleMech |   |   |   |   |   |   |   |   |   |   | • |

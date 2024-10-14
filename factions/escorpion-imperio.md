@@ -2,6 +2,7 @@
 
 | Unit | SL | ESW | LSW-L | LSW-R | CI | CW | J | ER | LR | DA | iC |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Adder OmniMech |   |   |   |   |   |   | • | • | • | • |   |
 | Archer BattleMech |   |   |   |   |   |   | • | • | • | • |   |
 | Atlas BattleMech |   |   |   |   |   |   | • | • | • | • |   |
 | Atlas II BattleMech |   |   |   |   |   |   | • | • | • | • |   |
@@ -95,6 +96,7 @@
 | Timber Wolf OmniMech |   |   |   |   |   |   | • | • | • | • |   |
 | Trebuchet BattleMech |   |   |   |   |   |   | • | • | • |   |   |
 | Turkina OmniMech |   |   |   |   |   |   | • | • | • | • |   |
+| UrbanMech |   |   |   |   |   |   | • | • | • | • |   |
 | Vapor Eagle BattleMech |   |   |   |   |   |   | • | • | • | • |   |
 | Vedette Medium Tank |   |   |   |   |   |   | • | • | • | • |   |
 | Victor BattleMech |   |   |   |   |   |   | • | • | • | • |   |

@@ -35,6 +35,7 @@
 | Mobile Headquarters |   | • |   |   |   |   |   |   |   |   |   |
 | Mobile Long Tom Artillery |   | • |   |   |   |   |   |   |   |   |   |
 | Mongoose BattleMech |   | • |   |   |   |   |   |   |   |   |   |
+| Night Chanter OmniMech |   | • |   |   |   |   |   |   |   |   |   |
 | Ostroc BattleMech |   | • |   |   |   |   |   |   |   |   |   |
 | Ostscout BattleMech |   | • |   |   |   |   |   |   |   |   |   |
 | Phoenix Hawk BattleMech |   | • |   |   |   |   |   |   |   |   |   |
